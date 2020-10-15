@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: 
+title: Breast Histopathology
 author: Achmad Ridho
 description: 
 intro_image: /img/machine-learning-definition.jpeg
