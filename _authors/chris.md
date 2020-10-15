@@ -2,7 +2,7 @@
 short_name: Ridho
 title: Achmad Ridho
 name: Achmad Ridho
-avatar: /img/avatar.png
+avatar: /img/avatar.jpg
 website: https://github.com/ridhoalattas
 github: https://www.github.com/ridhoalattas
 instagram: https://www.instagram.com/ridhoalattas
