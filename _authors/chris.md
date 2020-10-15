@@ -1,9 +1,7 @@
 ---
-short_name: C.S. Rhymes
-title: C.S. Rhymes - web dev and author
-name: C.S. Rhymes
-position: Web Designer
-description: C.S. Rhymes is a web developer and a part time author, specialising in Laravel, Vue.js and developing Jekyll themes.
+short_name: Ridho
+title: Achmad Ridho
+name: Achmad Ridho
 avatar: /img/avatar.png
 website: https://www.csrhymes.com
 facebook: https://www.facebook.com/
