@@ -24,8 +24,8 @@ Pada pengujian kali ini, dataset memiliki gambar sejumlah 277,524 dengan ukuran 
 
 Jumlah data yang saya gunakan dapat dilihat dari fungsi dibawah ini.
 ```
-![](/img/jumlah-data.png)
-<img src="/img/jumlah-data.png" alt="Jumlah Data">
+![](/img%20jumlah-data.png)
+<img src="/img%20jumlah-data.png" alt="Jumlah Data">
 
 ```yaml 
 2. Sample gambar (non-IDC)
