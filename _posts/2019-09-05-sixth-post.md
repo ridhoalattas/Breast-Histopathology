@@ -37,15 +37,15 @@ Dibawah ini merupakan beberapa sample gambar pasien non-IDC.
 
 `Gambar RGB`
 
-<img src="img/sample_0_2.png">
+[![2b4Z9R.png](https://iili.io/2b4Z9R.png)](https://freeimage.host/)
 
 `Gambar Grey`
 
-<img src="img/sample_0_3.png">
+[![2b4btI.png](https://iili.io/2b4btI.png)](https://freeimage.host/)
 
 `Gambar Random non-IDC`
 
-<img src="img/sample_0_4.png">
+[![2b4pnt.md.png](https://iili.io/2b4pnt.md.png)](https://freeimage.host/i/2b4pnt)
 
 ```yaml 
 3. Sample gambar (IDC)
@@ -54,19 +54,19 @@ Dibawah ini merupakan beberapa sample gambar pasien IDC.
 ```
 `Gambar Normal`
 
-<img src="img/sample_1_1.png">
+[![2b69Pn.png](https://iili.io/2b69Pn.png)](https://freeimage.host/)
 
 `Gambar RGB`
 
-<img src="img/sample_1_2.png">
+[![2b6JFs.png](https://iili.io/2b6JFs.png)](https://freeimage.host/)
 
 `Gambar Grey`
 
-<img src="img/sample_1_3.png">
+[![2b62Sf.png](https://iili.io/2b62Sf.png)](https://freeimage.host/)
 
 `Gambar Random IDC`
 
-<img src="img/sample_1_4.png">
+[![2b6F94.md.png](https://iili.io/2b6F94.md.png)](https://freeimage.host/i/2b6F94)
 
 ```yaml 
 4. Model Algoritma
@@ -75,7 +75,7 @@ Berikut ini model algoritma yang saya gunakan.
 ```
 `Model Algoritma`
 
-<img src="img/simple_model.png">
+[![2b6KAl.png](https://iili.io/2b6KAl.png)](https://freeimage.host/)
 
 ```yaml 
 Dari algoritma diatas saya melakukan pengujian dengan 30 epochs dan dari 30 epoch tersebut saya mendapatkan akurasi tertinggi yaitu 0.8603 pada epoch ke-20.
@@ -83,7 +83,7 @@ Berikut gambar epoch ke-20 tersebut
 ```
 `Epoch ke-20`
 
-<img src="img/final_epochs.png">
+[![2b6fN2.md.png](https://iili.io/2b6fN2.md.png)](https://freeimage.host/i/2b6fN2)
 
 ```yaml 
 5. Validasi Model
@@ -92,18 +92,18 @@ Berikut beberapa gambar dari pengujian model tersebut.
 ```
 `Confusion Matrix`
 
-<img src="img/confusion_matrix.png">
+[![2b6qtS.png](https://iili.io/2b6qtS.png)](https://freeimage.host/)
 
 ```yaml 
 Setelah dilihat dari hasil confusion matrix diatas, dapat dilihat bahwa model cukup masuk akal untuk digunakan lalu kemudian saya memunculkan plot gambar akurasi dan plot gambar loss agar dapat terlihat jelas apakah grafik overfit atau tidak.
 ```
 `Accuracy Plot`
 
-<img src=img/accuracy_simple_model.png">
+[![2b6oPe.png](https://iili.io/2b6oPe.png)](https://freeimage.host/)
 
 `Loss Plot`
 
-<img src="img/loss_simple_model.png">
+[![2b6zKu.png](https://iili.io/2b6zKu.png)](https://freeimage.host/)
 
 ```yaml 
 Setelah melihat plot diatas dan cukup puas, saya juga melakukan visualisasi gambar dengan Activation Map, yang dapat dilihat pada gambar berikut.
@@ -111,22 +111,19 @@ Setelah melihat plot diatas dan cukup puas, saya juga melakukan visualisasi gamb
 
 `Activation Map 1`
 
-<img src="img/activation_map_1.png">
+[![2b6Icb.png](https://iili.io/2b6Icb.png)](https://freeimage.host/)
 
 `Activation Map 2`
 
-<img src="img/activation_map_2.png">
+[![2b6AHx.md.png](https://iili.io/2b6AHx.md.png)](https://freeimage.host/i/2b6AHx)
 
 ```yaml 
 Setelah semua sesuai dengan kebutuhan analisa, maka saya terakhir memunculkan tensorboard dengan tujuan agar lebih dapat men-track jumlah penurunan grafik dah melakukan smooting pada grafik accuracy dan loss yang saya dapatkan, pada gambar berikut.
 ```
 `Tensorboard`
 
-<img src="img/tensorboard.png">
-
+[![2b6RAQ.png](https://iili.io/2b6RAQ.png)](https://freeimage.host/)
 ```yaml 
 6. Kesimpulan
 Dari hasil pengujian diatas yang saya munculkan, saya cukup puas dengan hasil tersebut dan hasil yang saya dapatkan juga cukup bagus yaitu diangka 0.8603 (val_accuracy) dan 0.3338 (val_loss) sehingga angka tersebut dapat dijadikan acuan terhadap prediksi gambar sejenis (Breast Histopathology Images).
-
-
 ```
