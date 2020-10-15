@@ -24,8 +24,7 @@ Pada pengujian kali ini, dataset memiliki gambar sejumlah 277,524 dengan ukuran 
 
 Jumlah data yang saya gunakan dapat dilihat dari fungsi dibawah ini.
 ```
-![](../img/jumlah-data.png)
-<img src="img/jumlah-data.png">
+[![2bwT8X.md.png](https://iili.io/2bwT8X.md.png)](https://freeimage.host/i/2bwT8X)
 
 ```yaml 
 2. Sample gambar (non-IDC)
@@ -34,8 +33,7 @@ Dibawah ini merupakan beberapa sample gambar pasien non-IDC.
 ```
 `Gambar Normal`
 
-![](../img/sample_0_1.png)
-<img src="img/sample_0_1.png">
+[![2bwRus.png](https://iili.io/2bwRus.png)](https://freeimage.host/)
 
 `Gambar RGB`
 
