@@ -2,7 +2,7 @@
 layout: post
 title: Breast Histopathology
 author: Achmad Ridho
-description: Breast Histopathology
+description: 
 intro_image: /img/machine-learning-definition.jpeg
 intro_image_ratio: is-16by9
 ---
