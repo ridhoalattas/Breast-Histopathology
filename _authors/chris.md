@@ -2,6 +2,7 @@
 short_name: Ridho
 title: Achmad Ridho
 name: Achmad Ridho
+location : Jakarta, Indonesia
 avatar: /img/avatar.png
 website: https://www.csrhymes.com
 facebook: https://www.facebook.com/
