@@ -20,16 +20,13 @@ Pada pengujian kali ini, dataset memiliki gambar sejumlah 277,524 dengan ukuran 
 
 **Result Report**
 
+**1. Jumlah data**
 
-
+Jumlah data yang saya gunakan dapat dilihat dari fungsi dibawah ini.
 
 ```yaml
-layout: post
-title: Post with Intro
-author: Guest Author
-intro: This is the introduction text for this post. It appears large and bold at the top of the post
-intro_image: /img/home.jpg
-intro_image_ratio: is-16by9
+image : /img/jumlah-data.png
 ```
+
 
 Only the intro is required if you want to display it. If you don't want an image then don't specify one and just the intro text will display.
