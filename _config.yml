@@ -41,9 +41,9 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "C.S. Rhymes"
+      author: "Achmad Ridho"
       layout: post
-      image: /img/home.jpg
+      image: /img/machine-learning-definition.jpeg
       show_sidebar: true
   -
     scope:
