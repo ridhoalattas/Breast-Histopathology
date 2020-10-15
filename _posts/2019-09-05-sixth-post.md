@@ -24,6 +24,7 @@ Pada pengujian kali ini, dataset memiliki gambar sejumlah 277,524 dengan ukuran 
 
 Jumlah data yang saya gunakan dapat dilihat dari fungsi dibawah ini.
 ```
+![](../img/jumlah-data.png)
 <img src="img/jumlah-data.png">
 
 ```yaml 
@@ -33,6 +34,7 @@ Dibawah ini merupakan beberapa sample gambar pasien non-IDC.
 ```
 `Gambar Normal`
 
+![](../img/sample_0_1.png)
 <img src="img/sample_0_1.png">
 
 `Gambar RGB`
