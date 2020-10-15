@@ -20,13 +20,9 @@ Pada pengujian kali ini, dataset memiliki gambar sejumlah 277,524 dengan ukuran 
 
 **Result Report**
 ```yaml 
-**1. Jumlah data**
+1. Jumlah data
 
 Jumlah data yang saya gunakan dapat dilihat dari fungsi dibawah ini.
 ```
+<img src="{{ site.url }}{{ site.baseurl }}/img/jumlah-data.png" alt="Jumlah Data">
 
-image : /img/jumlah-data.png
-
-
-
-Only the intro is required if you want to display it. If you don't want an image then don't specify one and just the intro text will display.
